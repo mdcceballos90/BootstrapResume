@@ -648,6 +648,16 @@ span.nav-close:before {
 	border-radius:50%;
 }
 
+.icon-effect i {
+	font-size:30px;
+	margin-top:30px;
+	margin-bottom:30px;
+	color:#fff;
+	padding:50px;
+	background:#328cc1;
+	border-radius:50%;
+}
+
 /* --- Contact --- */
 /* --- Map --- */
 .map{
